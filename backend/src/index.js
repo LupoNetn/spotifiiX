@@ -45,3 +45,5 @@ app.listen(PORT, () => {
   console.log(`server running on port ${PORT}`);
   connectDB()
 });
+
+//todo: Soocketio will be implemented
